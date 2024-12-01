@@ -1,2 +1,2 @@
-# TypeHeroAoc2024
+# TypeHero Advent of Code 2024
 type shittt
